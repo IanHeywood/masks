@@ -1,2 +1,3 @@
 # masks
-Storage of zipped cleaning masks for various imaging projects
+
+Storage of gzipped cleaning masks for MIGHTEE
